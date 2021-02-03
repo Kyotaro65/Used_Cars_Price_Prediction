@@ -2,7 +2,7 @@
 
 [kaggle上に公開されたUsed Cars Price Predictionというデータセット](https://www.kaggle.com/avikasliwal/used-cars-price-prediction)を用いて、中古車の価格を推論するモデルです。
 
-## Google Colaboratory上で開いてください
+## Google Colaboratoryで開いてください
 
 Google Colaboratory上で作成しているので、Google Drive上にレポジトリを複製してください。
 
@@ -42,7 +42,9 @@ Used_Cars_Price_Predictionフォルダをマイドライブ直下でなく他の
 ## プログラムについて
 
   
-  Used_Cars_Price_Pred.ipynbファイルがPythonで記述されたプログラムです。Google Colaboratory上で開き全て実行すると、train-data.csvファイルが読み込まれ中古車の値段を推論するモデルが構築されます。
+  上記のUsed_Cars_Price_Predictionフォルダ内のUsed_Cars_Price_Pred.ipynbファイルがPythonで記述されたプログラムです。
+  
+  Google Colaboratoryで開き全て実行すると、train-data.csvファイルが読み込まれ中古車の値段を推論するモデルが構築されます。
   
   最初のコードセルはドライブをマウントするためのもので、ここだけユーザー側に実行結果の指示に従って操作してもらう必要があります。
   
