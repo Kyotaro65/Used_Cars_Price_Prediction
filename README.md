@@ -3,8 +3,11 @@
 [kaggle上に公開されたUsed Cars Price Predictionというデータセット](https://www.kaggle.com/avikasliwal/used-cars-price-prediction)を用いて、中古車の価格を推論するモデルです。
 
 ## Google Colaboratoryで開いてください
+ファイルを閲覧するなら、Go to File > Used_Cars_Price_Pred > 任意のブランチを選択 の後、ファイルが表示されるフレーム内の Open in Colab を押せばリンクに飛んで Google Colaboratory で開くことができます。
 
-Google Colaboratory上で作成しているので、Google Drive上にレポジトリを複製してください。
+github上でもコードと実行結果を閲覧できますが、Google Colabratoryのほうが見やすく、実際に自ら実行してみるにはGoogle Colabratory等で行う必要があります。
+
+git clone でレポジトリを複製したい場合は、Google Colaboratory上で作成しているので、Google Drive上にレポジトリを複製すると便利です。
 
 Google Drive上でGoogle Colaboratoryのファイルを作成し、以下のコマンドを打ち込んで実行してください。
 
