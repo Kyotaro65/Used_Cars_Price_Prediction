@@ -1,6 +1,7 @@
 # Used_Cars_Price_Prediction
 
 [kaggle上に公開されたUsed Cars Price Predictionというデータセット](https://www.kaggle.com/avikasliwal/used-cars-price-prediction)を用いて、中古車の価格を推論するモデルです。
+
 ローカルにPython等の環境構築をしていなかった頃の作品で、GoogleDrive内でGoogleColabのみを用いて動かす仕様になっております。ご了承ください。
 
 ## Google Colaboratoryで開いてください
